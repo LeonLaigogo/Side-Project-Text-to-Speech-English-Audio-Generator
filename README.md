@@ -33,12 +33,13 @@ Groundwater is the word used to describe water that saturates the ground, fillin
 
 ---
 
-## 📁 Project Structure
----
+## 📂 Project Structure
+```
 Side-Project-Text-to-Speech-English-Audio-Generator/
-├── Text_to_Speech_Audio_Generator.ipynb       ← Main Colab notebook
-└── README.md                                   ← Project documentation
----
+├── text_to_speech_english_audio_generator.ipynb    ← Main code
+└── README.md                                       ← Project documentation
+```
+
 
 ---
 
