@@ -5,7 +5,7 @@ A Colab-based tool that converts English text into MP3 audio using gTTS.
 
 This is a simple Colab-based tool that converts English text into speech using [Google Text-to-Speech (gTTS)](https://pypi.org/project/gTTS/). It allows learners to generate MP3 audio for reading practice, shadowing, or language comprehension improvement.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonLaigogo/Side-Project-Text-to-Speech-English-Audio-Generator/blob/main/Text_to_Speech_Audio_Generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RvSz55OI9QMJGlqr3qYVCuxbHKax3JXL#scrollTo=T7D291OK1iQq)
 
 ---
 
@@ -33,12 +33,12 @@ Groundwater is the word used to describe water that saturates the ground, fillin
 
 ---
 
-## 📁 Project Files
-
-| File Name                             | Description                                  |
-|--------------------------------------|----------------------------------------------|
-| `Text_to_Speech_Audio_Generator.ipynb` | Main notebook to convert English text into MP3 |
-| `README.md`                          | This documentation file                      |
+## 📁 Project Structure
+---
+Side-Project-Text-to-Speech-English-Audio-Generator/
+├── Text_to_Speech_Audio_Generator.ipynb       ← Main Colab notebook
+└── README.md                                   ← Project documentation
+---
 
 ---
 
