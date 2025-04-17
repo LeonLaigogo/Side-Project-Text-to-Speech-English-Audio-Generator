@@ -1,6 +1,3 @@
-# Side-Project-Text-to-Speech-English-Audio-Generator
-A Colab-based tool that converts English text into MP3 audio using gTTS.
-
 # 🎧 Side Project - Text-to-Speech English Audio Generator
 
 This is a simple Colab-based tool that converts English text into speech using [Google Text-to-Speech (gTTS)](https://pypi.org/project/gTTS/). It allows learners to generate MP3 audio for reading practice, shadowing, or language comprehension improvement.
